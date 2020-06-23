@@ -1,0 +1,17 @@
+.single {
+    border: 1px solid red;
+    border-radius: 5%;
+    width: 30%;
+    height: 200px;
+    margin: 1%;
+    display: inline-block;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
